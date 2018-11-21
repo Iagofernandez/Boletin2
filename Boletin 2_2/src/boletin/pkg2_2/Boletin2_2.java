@@ -17,7 +17,7 @@ public class Boletin2_2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Scanner leer = new Scanner(System.in);
+        Scanner leer = new Scanner(System.in);
 
         float F, K;
 
